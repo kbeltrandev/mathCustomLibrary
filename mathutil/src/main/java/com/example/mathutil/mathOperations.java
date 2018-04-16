@@ -16,10 +16,8 @@ public class mathOperations {
         return a*b;
     }
 
-
-    public String getTestText(){
-
-        String testLibrary = "testLibraryVersion1.2";
-        return testLibrary ;
+    public static int customResult(int a,int b,int c)
+    {
+        return (a+b)*c;
     }
 }
