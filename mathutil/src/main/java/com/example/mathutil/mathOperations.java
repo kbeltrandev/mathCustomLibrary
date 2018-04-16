@@ -16,4 +16,10 @@ public class mathOperations {
         return a*b;
     }
 
+
+    public String getTestText(){
+
+        String testLibrary = "testLibraryVersion1.2";
+        return testLibrary ;
+    }
 }
